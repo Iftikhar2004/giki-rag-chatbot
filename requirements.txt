@@ -4,7 +4,5 @@ sentence-transformers
 pypdf
 docx2txt
 python-dotenv
-openai>=1.0.0
+openai
 numpy
-numpy
-EOF
