@@ -1,0 +1,10 @@
+streamlit
+faiss-cpu
+sentence-transformers
+pypdf
+docx2txt
+python-dotenv
+openai>=1.0.0
+numpy
+numpy
+EOF
